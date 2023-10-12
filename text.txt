@@ -1,2 +1,2 @@
 privet
-some changes
+some new changes from cloneGit
